@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6m0042/x/v1/juan/0
+seq: 0
+front:
+  text: 肇論疏序科文泐潭禪師曉月治定釋此論序科文分二初明作論元由六一標舉論名慧達二稱美人法但末三慶幸遭逢達猥四排斥譏嫌世諺五申述元情夫神六宣明序意達留後序論之宗旨四一序次第夫大二遣相雖以三稱歎余謂四簡別是非但宗
+  hash: sha256:6d139294f84493495d31a20b7d17324444548a92e9562fe4bd39109a28c830e2
+  markers:
+  - {type: 其他, offset: 0, content: No. 868-A 肇論疏序科文, id: KR6m0042_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 肇論疏科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0868.xml
+    old_id: X54n0868
+hash: sha256:633a868437984e1f811a8f6e51f6a49644bfa5b17edf15819b3aebd7d54de77f
