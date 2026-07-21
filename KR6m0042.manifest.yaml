@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6m0042_000.yaml, hash: 'sha256:633a868437984e1f811a8f6e51f6a49644bfa5b17edf15819b3aebd7d54de77f'}
+  - {seq: 0, filename: KR6m0042_000.yaml, hash: 'sha256:ecb7314a4f58cd66bbd7bb868b1733f573aea272ec01dbb91174033fd21537a2'}
   - {seq: 1, filename: KR6m0042_001.yaml, hash: 'sha256:ace08dcf3e35f5600504b109035dfc74ee581942b17ebe58dd9e8bf041e431d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6m0042_000.markers.yaml, hash: 'sha256:9325c8290e13122a4f4cbcda25f879cb067155f0b18719e85bc74fb7fe447131'}
+  - {seq: 0, role: markers, filename: assets/KR6m0042_000.markers.yaml, hash: 'sha256:a67720eb6837d85e3d8d0a45984b1e8f7f018a0a0cae14ebfad5601023d4638e'}
   - {seq: 1, role: markers, filename: assets/KR6m0042_001.markers.yaml, hash: 'sha256:e1e916a48f0a96d6bda85a60f141d86e219d48c74c7057375f7623b91b7bd270'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6m0042_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 868-A 肇論疏序科文
@@ -47,7 +47,7 @@ table_of_contents:
   label: 肇論述科文
   type: juan
   level: 1
-hash: sha256:9f6cda2d5eb49b8e0ba9fd0a638fe8537771328ab1e4bf264bb43c51215ee8c8
+hash: sha256:5596c823d39242f74528971b2ead153c2c28c48d517028b287b226f1fcd21010
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
